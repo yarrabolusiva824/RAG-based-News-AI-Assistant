@@ -3,7 +3,8 @@
 
 a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
-![](rockybot.jpg)
+<img width="1429" height="788" alt="image" src="https://github.com/user-attachments/assets/20dc6e31-52ca-4076-87c6-b8fcd3df7575" />
+
 
 ## Features
 
